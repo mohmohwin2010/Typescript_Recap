@@ -1,1 +1,3 @@
-- this version just include practice code of function with parmareter
+- this version just include practice code of Any and Unknown type
+- Unknown : we don't know what type receive
+- any : we don't exactly know specific type
