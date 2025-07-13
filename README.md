@@ -1,3 +1,1 @@
-- this version just include practice code of types
-- if you run with "tsc src/Types.ts" , it generate Types.js file
-- if you run with ts-node src/Types.ts , it just run Types.ts file
+- this version just include practice code of function with parmareter
